@@ -4,7 +4,7 @@ Link generator for [deepbrid.com](https://www.deepbrid.com/home#pricing)
 
 
 ## Requirements
-- [Why I did not receive any notifications on first run?](https://www.deepbrid.com/home#pricing) premium account (*not free*)
+- [deepbrid.com](https://www.deepbrid.com/home#pricing) premium account (*not free*)
 - The PHPSESSID token after you have logged into deepbrid.com (use a cookie reader)
 
 
