@@ -9,8 +9,7 @@ Link generator for [deepbrid.com](https://www.deepbrid.com/home#pricing)
 
 
 ## Instructions
-
-- Run
+- [https://github.com/Kianda/deepbrid/releases](Download) and run
 - Paste your PHPSESSID in the first field
 - Paste the links inside the text area
 - Convert
